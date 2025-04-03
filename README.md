@@ -1,7 +1,7 @@
-Well you got here on my profile so you might as well check out Sling Fling Tower
+random kid who likes python
+uses pygame and godot
 
-https://github.com/ek3d/sling-fling-tower
-
+chrck out my game (made with pygame)
 https://ek3d.github.io/sling-fling-tower
 <!---
 ek3d/ek3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
